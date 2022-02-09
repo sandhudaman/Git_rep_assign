@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SEM5/mobileapplication/Lab3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3703125" />
+        <entry key="..\:/SEM5/mobileapplication/Lab3/app/src/main/res/drawable/custombutton.xml" value="0.3703125" />
+        <entry key="..\:/SEM5/mobileapplication/Lab3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3703125" />
+        <entry key="..\:/SEM5/mobileapplication/Lab3/app/src/main/res/layout/activity_main.xml" value="0.33096716947648624" />
+        <entry key="..\:/SEM5/mobileapplication/Lab3/app/src/main/res/layout/fragment_bottom_half.xml" value="0.6045845272206304" />
+        <entry key="..\:/SEM5/mobileapplication/Lab3/app/src/main/res/layout/fragment_button.xml" value="0.5494791666666666" />
+        <entry key="..\:/SEM5/mobileapplication/Lab3/app/src/main/res/layout/fragment_counter.xml" value="0.5494791666666666" />
+        <entry key="..\:/SEM5/mobileapplication/Lab3/app/src/main/res/layout/fragment_top_half.xml" value="0.5494791666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

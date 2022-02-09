@@ -1,0 +1,16 @@
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1Serializer.exe
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1Serializer.deps.json
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1Serializer.runtimeconfig.json
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1Serializer.runtimeconfig.dev.json
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1Serializer.dll
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1Serializer.pdb
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.csproj.AssemblyReference.cache
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.AssemblyInfoInputs.cache
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.AssemblyInfo.cs
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.csproj.CoreCompileInputs.cache
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.csproj.CopyComplete
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.dll
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.pdb
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1Serializer.genruntimeconfig.cache

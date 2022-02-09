@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 3 - Damanpreet Singh 000741359</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saved_high_score_key">0</string>
+    <string name="SW_STATE" />
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+
+</resources>

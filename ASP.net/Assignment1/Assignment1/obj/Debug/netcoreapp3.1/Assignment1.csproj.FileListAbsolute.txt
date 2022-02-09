@@ -1,0 +1,14 @@
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+D:\SEM5\Advance_net\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+D:\SEM5\Advance_net\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
