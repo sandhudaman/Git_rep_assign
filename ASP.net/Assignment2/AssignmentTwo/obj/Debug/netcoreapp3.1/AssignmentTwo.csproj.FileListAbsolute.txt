@@ -1,0 +1,14 @@
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\bin\Debug\netcoreapp3.1\AssignmentTwo.exe
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\bin\Debug\netcoreapp3.1\AssignmentTwo.deps.json
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\bin\Debug\netcoreapp3.1\AssignmentTwo.runtimeconfig.json
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\bin\Debug\netcoreapp3.1\AssignmentTwo.runtimeconfig.dev.json
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\bin\Debug\netcoreapp3.1\AssignmentTwo.dll
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\bin\Debug\netcoreapp3.1\AssignmentTwo.pdb
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\obj\Debug\netcoreapp3.1\AssignmentTwo.csproj.AssemblyReference.cache
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\obj\Debug\netcoreapp3.1\AssignmentTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\obj\Debug\netcoreapp3.1\AssignmentTwo.AssemblyInfoInputs.cache
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\obj\Debug\netcoreapp3.1\AssignmentTwo.AssemblyInfo.cs
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\obj\Debug\netcoreapp3.1\AssignmentTwo.csproj.CoreCompileInputs.cache
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\obj\Debug\netcoreapp3.1\AssignmentTwo.dll
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\obj\Debug\netcoreapp3.1\AssignmentTwo.pdb
+D:\SEM5\Advance_net\Assignment2\AssignmentTwo\obj\Debug\netcoreapp3.1\AssignmentTwo.genruntimeconfig.cache
