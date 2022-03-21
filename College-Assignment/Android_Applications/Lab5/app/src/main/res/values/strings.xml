@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab5 - Damanpreet Singh 000741359</string>
+    <string name="retry">RETRY PERMISSION</string>
+    <string name="quit">QUIT</string>
+    <string name="message"></string>
+
+    <string name="fragmentOneText">Message Clipboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
